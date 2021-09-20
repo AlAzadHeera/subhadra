@@ -1,0 +1,30 @@
+@media (max-width: 480px) {
+    .lt_title_big{
+        font-size: 20px;
+    }
+
+    .section_holder33 .price_table_holder {
+        float: none;
+        margin: 0 auto;
+    }
+
+    #demo-tab-1 iframe{
+        border: 0;
+        padding-bottom: 25px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #trueHeader .logo{
+        position: relative;
+        z-index: 9999999;
+    }
+  }
+
+  @media (min-width: 481px) and (max-width: 768px){
+    #demo-tab-1 iframe{
+        float: none;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+  }
